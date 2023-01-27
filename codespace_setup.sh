@@ -1,0 +1,1 @@
+export VCPKG_TOOLCHAIN_FILE=/workspaces/CppTestbench/vcpkg/scripts/buildsystems/vcpkg.cmake
